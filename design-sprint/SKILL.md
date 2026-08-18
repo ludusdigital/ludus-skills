@@ -1,3 +1,16 @@
+---
+name: design-sprint
+description: >-
+  Vodi kroz strukturisan proces rešavanja kompleksnih problema po Design Sprint
+  metodologiji prilagođenoj AI-native načinu rada (9 faza: razumevanje, mapiranje,
+  skica, odluka, najrizičnija pretpostavka, eksperiment, prototip, testiranje,
+  sinteza). Koristi ovaj skill UVEK kada korisnik traži design sprint, radionicu
+  za rešavanje problema, brzi prototip, validaciju ideje, testiranje sa
+  korisnicima, definisanje pravog problema, ili kada postoji velika neizvesnost
+  i više mogućih pravaca, a pogrešna odluka bi bila skupa. Uključuje faze,
+  šablone, promptove, checkliste i primere iz različitih industrija.
+---
+
 # Design Sprint Skill
 
 ## Purpose
